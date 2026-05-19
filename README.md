@@ -10,7 +10,7 @@ Bitcoin Ordinals art by Lord Emo. Lives at [escapist.lol](https://escapist.lol).
 
 ## Marketplaces
 
-- [Ordtisms — Magic Eden](https://magiceden.us/ordinals/marketplace/ordtism)
+- [Ordtisms — Gamma](https://gamma.io/ordinals/collections/ordtisms/items)
 - [Rare Tisms — Ord-X](https://www.ord-x.com/)
 
 ## Community
